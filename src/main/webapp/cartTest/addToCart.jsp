@@ -47,7 +47,7 @@
 		
 		<h2>장바구니에 <%= product %>이(가) 추가 되었습니다.</h2>
 		
-		<a href="productList.jsp">상품 더 보기</a>
+		<a href="productList.jsp">상품 더 보기</a><br>
 		<a href="viewCart.jsp">장바구니 보기</a>
 		
 	</body>
